@@ -48,5 +48,9 @@
   },
   "targets": [
     "node"
+  ],
+  "contributors": [
+    "kustomzone <github@kustomzone.com>",
+    "mkg20001 <mkg20001@gmail.com>"
   ]
 }
