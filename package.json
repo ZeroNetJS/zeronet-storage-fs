@@ -32,10 +32,10 @@
   },
   "homepage": "https://github.com/ZeroNetJS/zeronet-storage-fs#readme",
   "dependencies": {
-    "async": "~2.6.0",
-    "jsonfile": "~4.0.0",
+    "async": "^2.6.0",
+    "jsonfile": "^4.0.0",
     "mkdirp": "~0.5.1",
-    "stream-to-pull-stream": "~1.7.2"
+    "stream-to-pull-stream": "^1.7.2"
   },
   "devDependencies": {
     "aegir": "^12.2.0",
